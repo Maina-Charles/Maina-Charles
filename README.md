@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Charles Maina Irungu
 
-👨‍💼 **CPA-K | Data Analyst | Power BI & SQL Enthusiast**  
+👨‍💼 **CPA-K | Data Analyst | Financial Analyst | Business Intelligence & AI Enthusiast**  
 📍 Nairobi, Kenya  
 🔗 [LinkedIn](https://www.linkedin.com/in/charles-irungu/)
 
@@ -14,14 +14,14 @@ I'm a passionate **Data Analytics professional** with hands-on experience in tur
 
 ## 🧠 Skills & Tools
 
-### **Data Analysis & Engineering**
+### **Data Analysis**
 - Python (Pandas, NumPy, SQLAlchemy)
-- Data Cleaning & Feature Engineering  
+- Data Cleaning & Tranformation 
 - Exploratory Data Analysis (EDA)
 
 ### **Databases & Queries**
 - Relational Databases (PostgreSQL / MySQL)
-- Advanced SQL for Business Analytics
+- SQL for Business Analytics
 
 ### **Business Intelligence**
 - Power BI dashboard development
