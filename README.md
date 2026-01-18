@@ -19,7 +19,7 @@ I'm a passionate Data Analytics professional with hands-on experience in turning
 - Exploratory Data Analysis (EDA)
 
 ### **Databases & Queries**
-- Relational Databases (PostgreSQL / MySQL)
+- Relational Databases (MySQL)
 - SQL for Business Analytics
 
 ### **Business Intelligence**
