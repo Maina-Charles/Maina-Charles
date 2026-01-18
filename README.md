@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analytics professional** with hands-on experience in turning complex data into actionable business insights. I blend **financial analysis, Python scripting, SQL querying, and data visualization** to support data-driven decisions.
-
+I'm a passionate **Data Analytics professional** with hands-on experience in turning complex data into actionable business insights. I bridge **financial analytics,data analytics, and data visualization** to turn complex data into meaningful, decision-ready insights.
 ---
 
 ## 🧠 Skills & Tools
