@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Data Analytics professional with hands-on experience in turning complex data into actionable business insights. I bridge financial analytics,data analytics, and data visualization to turn complex data into meaningful, decision-ready insights.
+I'm a passionate finance and analytics professional with hands-on experience in turning complex data into actionable business insights. I bridge financial analytics,data analytics, and data visualization to turn complex data into meaningful, decision-ready insights.
 ---
 
 ## 🧠 Skills & Tools
@@ -24,10 +24,12 @@ I'm a passionate Data Analytics professional with hands-on experience in turning
 
 ### **Business Intelligence**
 - Power BI dashboard development
-- Data Visualization & Storytelling
+- Data Visualization and Storytelling
 
 ### **Other**
 - Excel & Financial Modeling
+- Power Query, Power Pivot, Macros
+- AI and Automation
 - Version Control (Git & GitHub)
 
 ---
