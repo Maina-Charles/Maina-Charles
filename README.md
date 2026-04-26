@@ -9,7 +9,6 @@
 ## 🚀 About Me
 
 I'm a passionate finance and analytics professional with hands-on experience in turning complex data into actionable business insights. I bridge financial analytics,data analytics, and data visualization to turn complex data into meaningful, decision-ready insights.
----
 
 ## 🧠 Skills & Tools
 
